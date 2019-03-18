@@ -1,2 +1,4 @@
-# EDL
-Estrutura de Linguagem 2018-2
+Ciência da Computação UERJ
+Emerson Silva Torres Vargas
+
+Estrutura de Linguagem 2019-1
